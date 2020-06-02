@@ -1,0 +1,272 @@
+制造装备：@I BuildPropItem 22155 品质=4 洗炼=SC=0:1,SC=0:1,SC=0:1,SC=0:1,SC=0:1
+制造装备：@I BuildPropItem 21155 品质=4 洗炼=SC=0:100,SC=0:100,SC=0:100,SC=0:100,SC=0:100
+
+
+@I BuildPropItem 21030 品质=4 洗炼=SC=0:1,SC=0:1,SC=0:1,SC=0:1,SC=0:1
+制造道具：@I builditem ID 数量（例如：@I builditem 10110 3）
+角色升级：@I Setlevel 1
+召唤宠物：@I CreateNewPet 30
+
+
+
+
+
+战士装备240一套（账号：zhanshi001）
+@I Setlevel 240
+
+@I BuildPropItem 20155 品质=4 洗炼=AllSkillLevelAddOne=2,DC=0:1641,DC=0:1641,DC=0:1641,DC=0:1641
+@I BuildPropItem 20156 品质=4 洗炼=AllSkillLevelAddOne=2,DC=0:1231,DC=0:1231,DC=0:1231,DC=0:1231
+@I BuildPropItem 20157 品质=4 洗炼=AllSkillLevelAddOne=2,DC=0:616,DC=0:616,DC=0:616,DC=0:616
+@I BuildPropItem 20158 品质=4 洗炼=AllSkillLevelAddOne=2,HP=159565,HP=159565,HP=159565,HP=159565
+@I BuildPropItem 20159 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 20160 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 20161 品质=4 洗炼=AllSkillLevelAddOne=2,DC=0:616,DC=0:616,DC=0:616,DC=0:616
+@I BuildPropItem 20162 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390
+@I BuildPropItem 20163 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 20164 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 20165 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 20166 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 20167 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+@I BuildPropItem 20168 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+
+
+@I builditem 10110 9
+@I builditem 10210 9
+@I builditem 10310 12
+@I builditem 10410 3
+@I builditem 10510 3
+@I builditem 10610 3
+@I builditem 10710 3
+
+@I builditem 1 99999999
+@I builditem 2 99999999
+@I builditem 3 99999999
+@I builditem 5 99999999
+@I builditem 140 39996
+@I builditem 143 39996
+@I builditem 146 39996
+@I builditem 149 9999
+@I builditem 150 9999
+@I builditem 151 9999
+@I builditem 155 9999
+
+@I builditem 170 9999
+@I builditem 171 9999
+==================把技能升级到40级
+
+召唤坐骑
+@I builditem 2002 1
+@I builditem 2004 1
+@I builditem 2006 1
+@I builditem 2008 1
+@I builditem 2014 1
+@I builditem 2034 1
+@I builditem 2036 1
+
+召唤宠物：
+@I CreateNewPet 30  （复制粘贴4次，调出4只宠物）
+@I builditem 101 299997
+@I builditem 102 99999  
+@I builditem 103 99999
+===开始漫长的升级到120级/只宠物
+@I builditem 108 9999
+@I builditem 109 9999
+@I builditem 110 9999
+@I builditem 111 9999
+===开始宠物升星到满级（记得把宠物上阵，否则没有属性）
+
+
+法师装备240一套（账号：fashi001）
+@I Setlevel 240
+
+@I BuildPropItem 21155 品质=4 洗炼=AllSkillLevelAddOne=2,MC=0:1641,MC=0:1641,MC=0:1641,MC=0:1641
+@I BuildPropItem 21156 品质=4 洗炼=AllSkillLevelAddOne=2,MC=0:1231,MC=0:1231,MC=0:1231,MC=0:1231
+@I BuildPropItem 21157 品质=4 洗炼=AllSkillLevelAddOne=2,MC=0:616,MC=0:616,MC=0:616,MC=0:616
+@I BuildPropItem 21158 品质=4 洗炼=AllSkillLevelAddOne=2,HP=159565,HP=159565,HP=159565,HP=159565
+@I BuildPropItem 21159 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 21160 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 21161 品质=4 洗炼=AllSkillLevelAddOne=2,MC=0:616,MC=0:616,MC=0:616,MC=0:616
+@I BuildPropItem 21162 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390
+@I BuildPropItem 21163 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 21164 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 21165 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 21166 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 21167 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+@I BuildPropItem 21168 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+
+@I builditem 10110 9
+@I builditem 10210 9
+@I builditem 10310 12
+@I builditem 10410 3
+@I builditem 10510 3
+@I builditem 10610 3
+@I builditem 10710 3
+
+@I builditem 1 99999999
+@I builditem 2 99999999
+@I builditem 3 99999999
+@I builditem 140 39996
+@I builditem 143 39996
+@I builditem 146 39996
+@I builditem 149 9999
+@I builditem 150 9999
+@I builditem 151 9999
+@I builditem 155 9999
+
+@I builditem 170 9999
+@I builditem 171 9999
+==================把技能升级到40级
+
+召唤坐骑
+@I builditem 2002 1
+@I builditem 2004 1
+@I builditem 2006 1
+@I builditem 2008 1
+@I builditem 2014 1
+@I builditem 2026 1
+@I builditem 2028 1
+
+
+召唤宠物：
+@I CreateNewPet 30  （复制粘贴4次，调出4只宠物）
+@I builditem 101 299997
+@I builditem 102 99999  
+@I builditem 103 99999
+===开始漫长的升级到120级/只宠物
+@I builditem 108 9999
+@I builditem 109 9999
+@I builditem 110 9999
+@I builditem 111 9999
+===开始宠物升星到满级（记得把宠物上阵，否则没有属性）
+
+
+
+
+
+牧师装240一套（账号：mushi001）
+@I Setlevel 240
+
+@I BuildPropItem 22055 品质=4 洗炼=AllSkillLevelAddOne=2,SC=0:1641,SC=0:1641,SC=0:1641,SC=0:1641
+@I BuildPropItem 22156 品质=4 洗炼=AllSkillLevelAddOne=2,SC=0:1231,SC=0:1231,SC=0:1231,SC=0:1231
+@I BuildPropItem 22157 品质=4 洗炼=AllSkillLevelAddOne=2,SC=0:616,SC=0:616,SC=0:616,SC=0:616
+@I BuildPropItem 22158 品质=4 洗炼=AllSkillLevelAddOne=2,HP=159565,HP=159565,HP=159565,HP=159565
+@I BuildPropItem 22159 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 22160 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290,DefenceFullUpRation=290
+@I BuildPropItem 22161 品质=4 洗炼=AllSkillLevelAddOne=2,SC=0:616,SC=0:616,SC=0:616,SC=0:616
+@I BuildPropItem 22162 品质=4 洗炼=AllSkillLevelAddOne=2,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390,DefenceFullUpRation=390
+@I BuildPropItem 22163 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 22164 品质=4 洗炼=AllSkillLevelAddOne=2,HP=119674,HP=119674,HP=119674,HP=119674
+@I BuildPropItem 22165 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 22166 品质=4 洗炼=AllSkillLevelAddOne=2,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120,PhysicPenetrate=120
+@I BuildPropItem 22167 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+@I BuildPropItem 22168 品质=4 洗炼=AllSkillLevelAddOne=2,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120,MagicPenetrate=120
+
+@I builditem 10110 9
+@I builditem 10210 9
+@I builditem 10310 12
+@I builditem 10410 3
+@I builditem 10510 3
+@I builditem 10610 3
+@I builditem 10710 3
+
+@I builditem 1 99999999
+@I builditem 2 99999999
+@I builditem 3 99999999
+@I builditem 5 99999999
+@I builditem 140 39996
+@I builditem 143 39996
+@I builditem 146 39996
+@I builditem 149 9999
+@I builditem 150 9999
+@I builditem 151 9999
+@I builditem 155 9999
+
+@I builditem 170 9999
+@I builditem 171 9999
+==================把技能升级到40级
+
+召唤坐骑
+@I builditem 2002 1
+@I builditem 2004 1
+@I builditem 2006 1
+@I builditem 2008 1
+@I builditem 2014 1
+@I builditem 2030 1
+@I builditem 2032 1
+
+召唤宠物：
+@I CreateNewPet 30  （复制粘贴4次，调出4只宠物）
+@I builditem 101 299997
+@I builditem 102 99999  
+@I builditem 103 99999
+===开始漫长的升级到120级/只宠物
+@I builditem 108 9999
+@I builditem 109 9999
+@I builditem 110 9999
+@I builditem 111 9999
+===开始宠物升星到满级（记得把宠物上阵，否则没有属性）
+
+
+
+
+21034TaskName_21034
+@qc39 DEI -1 50  减少背包中装备的完整度
+
+发邮件
+@I sendselfmail 我是标题 我试试[color=#00ff99]内容[/color] 20001|1|1|品质=3;洗炼=DC=60:100,DC=60:100,DC=60:100,DC=60:100,DC=60:100/20002|1|1|品质=2;洗炼=DC=60:100/平底锅|1|1|/洗炼石|999|1|/
+@I sendselfmail 我是标题 [b]啦啦[/b]   加粗
+@I sendselfmail 我是标题 [u]啦啦[/u]   下划线
+@I sendselfmail 我是标题 [i]啦啦[/i]	斜体
+@I sendselfmail 我是标题 [img]啦啦[/img]	图片
+@I sendselfmail 我是标题 [url=www.baidu.com][/url]
+链接 ：[url=www.baidu.com]字体大小: [size=12]内容[/size]	
+颜色: @I sendselfmail 我是标题 [color=#33ff66]内容[/color]
+
+
+1.加上个任务： @I dotask 0 21079
+
+2.传送： @I flytomap 1101 70 22 560
+
+然后点击79号任务，完成后会接到英雄npc的导航任务，点击任务前往完成任务。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
